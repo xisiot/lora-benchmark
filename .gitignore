@@ -1,0 +1,6 @@
+*.swp
+.vscode
+.idea
+__pycache__
+*.pyc
+config/config.yml
